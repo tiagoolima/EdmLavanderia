@@ -6,5 +6,9 @@ O objetivo do site é criar um espaço para abrigar links com todas as redes soc
 
 
 ### 🛠️ Construído com
-*HTML;
-*CSS3.
+* HTML5;
+* CSS3.
+
+
+### 🖱 Disponível em
+https://edmlavanderia.netlify.app/
