@@ -14,7 +14,7 @@ O objetivo do site é criar um espaço para abrigar links com todas as redes soc
 https://edmlavanderia.netlify.app/
 
 
-### Captura de tela
-<div align="center">
-<img src="https://github.com/tiagoothome/EDM_Lavanderia/issues/1#issue-1764165008" width="300px" />
+### 💻 Captura de tela
+<div>
+<img src="https://github.com/tiagoothome/EDM_Lavanderia/assets/102389691/b48f6102-9d47-4bed-977c-a561e580d732.png" width="300px" />
 </div>
